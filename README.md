@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FadyJabbour
-- 👀 I’m interested in Security
+- 👀 I’m interested in IT Security
 - 🌱 I’m currently learning MongoDB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
